@@ -2,8 +2,8 @@
 
 int main()
 {
-   int arr[3][3];
-   int val1, val2, val3 ,i, j;
+    int arr[3][3];
+    int val1, val2, val3 ,i, j;
 
     printf("Pedir valores\n");
     for(i=0; i<3; i++)
@@ -27,7 +27,4 @@ int main()
     }
   return 0;
 }
-   
-   
-   
          
